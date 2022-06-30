@@ -1,0 +1,19 @@
+body{
+  background-color: rgb(212, 167, 167);
+}
+.title{
+  font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+td{
+  font-family:'Courier New', Courier, monospace;
+}
+img{
+  height: 35px;
+  width: 35px;
+  border-radius: 30px;
+  object-fit: cover;
+}
+.col-2 img{
+  height: 150px;
+  width: 100px;
+}
